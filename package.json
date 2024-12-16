@@ -1,0 +1,16 @@
+{
+  "name": "first_express_project",
+  "version": "1.0.0",
+  "description": "learning express",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "author": "mayur",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
